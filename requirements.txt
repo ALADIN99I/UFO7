@@ -1,0 +1,6 @@
+pandas
+fredapi
+torch
+torch_geometric
+numpy
+scipy
